@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Areeba-Ateeque/Areeba-Ateeque/blob/main/1683166561249.jpg)
 <h1 align="center">Hi 👋, I'm Areeba Ateeque</h1>
 <h3 align="center">I Passionate AI Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*iGdFJTHMIG79N2HChWaooQ.gif">
